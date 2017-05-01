@@ -1,0 +1,89 @@
+body {
+  padding-top: 10%;
+  padding-bottom: 40px;
+  background-color: #660000;
+  color:#fff;
+}
+
+h1 {
+  color: #660000;
+  text-align: center;
+  font-family: 'Arial';
+  font-size: 30px;
+}
+
+.login-form {
+  width: 380px;
+  padding: 20px 30px;
+  background: #fff;
+  color: #660000;
+  border-radius: 0px;
+  margin: auto;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 25%;
+}
+
+.form-group {
+  position: relative;
+  margin-bottom: 15px;
+  background-color: #8c8c8c;
+}
+
+.form-control {
+  width: 100%;
+  height: 50px;
+  border: none;
+  padding: 5px 7px 5px 15px;
+  background: #fff;
+  color: #000;
+  border: 2px solid #ddd;
+  border-radius: 0px;
+}
+.form-control:focus, .form-control:focus + .fa {
+  border-color: #660000;
+  color: #660000;
+}
+
+.form-group .fa {
+  position: absolute;
+  right: 15px;
+  top: 17px;
+  color: #660000;
+}
+
+
+.log-status.wrong-entry .form-control, .wrong-entry .form-control + .fa {
+  border-color: #660000;
+  color: #ed1c24;
+}
+
+.log-btn {
+  background: #660000;
+  color:#fff;
+  width: 100%;
+  font-size: 16px;
+  height: 50px;
+  color: #fff;
+  text-decoration: none;
+  border: none;
+  border-radius: 0px;
+}
+
+.link {
+  text-decoration: none;
+  color: #660000;
+  float: right;
+  font-size: 12px;
+  margin-bottom: 15px;
+}
+.link:hover {
+  text-decoration: underline;
+  color: #660000;
+}
+
+.log-btn:hover, .log-btn:focus, .open > .dropdown-toggle.btn-primary {
+    background: #0AC986;
+    color:#fff;
+}

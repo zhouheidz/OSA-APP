@@ -1,0 +1,15 @@
+OSA App
+
+Programmed by: 
+	Chiu, Heidi Angela U.
+	Marinduque, Kelly A.
+	Meguillo, Monique M.
+	Varona, Mary Charlene C.
+
+Mobile: osaapp19.rar
+
+Web & Server: psql2.zip
+
+University of the Philippines Cebu
+BS Computer Science III 2016
+CMSC 128 (Software Engineering)
